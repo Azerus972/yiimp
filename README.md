@@ -13,3 +13,6 @@ If you want to support https://coinminingpool.org, mine with us!
 **Telegram** - https://t.me/coinminingpoolorg
 
 **Discord** - https://discord.gg/t7czC49
+
+**Reddit** - https://www.reddit.com/r/CoinMiningPool_org/
+
